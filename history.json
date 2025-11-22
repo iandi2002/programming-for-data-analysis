@@ -1,0 +1,12 @@
+[
+  {
+    "text": "you're so smart",
+    "label": "Не токсичный",
+    "prob": 0.58108134344718
+  },
+  {
+    "text": "You're so smart, how would we have figured it out without you",
+    "label": "Токсичный",
+    "prob": 0.5207505759870411
+  }
+]
