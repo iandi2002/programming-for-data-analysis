@@ -8,5 +8,196 @@
     "text": "You're so smart, how would we have figured it out without you",
     "label": "Токсичный",
     "prob": 0.5207505759870411
+  },
+  {
+    "text": "долбаёб",
+    "label": "Не токсичный",
+    "prob": 0.5767008393840396
+  },
+  {
+    "text": "nigger",
+    "label": "Токсичный",
+    "prob": 0.5253745041029927,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.5253745041029927
+      },
+      {
+        "code": "IsHatespeech",
+        "prob": 0.5200079562987401
+      },
+      {
+        "code": "IsRacist",
+        "prob": 0.5142737767036473
+      }
+    ]
+  },
+  {
+    "text": "faggot",
+    "label": "Not toxic",
+    "prob": 0.5357373239965846
+  },
+  {
+    "text": "nigger",
+    "label": "Toxic",
+    "prob": 0.5253745041029927,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.5253745041029927
+      },
+      {
+        "code": "IsHatespeech",
+        "prob": 0.5200079562987401
+      },
+      {
+        "code": "IsRacist",
+        "prob": 0.5142737767036473
+      }
+    ]
+  },
+  {
+    "text": "idiot",
+    "label": "Toxic",
+    "prob": 0.8607482426820882,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.8233789712252986
+      },
+      {
+        "code": "IsAbusive",
+        "prob": 0.8607482426820882
+      }
+    ]
+  },
+  {
+    "text": "women",
+    "label": "Not toxic",
+    "prob": 0.7149477173318695
+  },
+  {
+    "text": "дебил",
+    "label": "Toxic",
+    "prob": 0.9806061299847808,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.9806061299847808
+      }
+    ]
+  },
+  {
+    "text": "долбаёб",
+    "label": "Toxic",
+    "prob": 0.5110534556861034,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.5110534556861034
+      }
+    ]
+  },
+  {
+    "text": "хохол",
+    "label": "Toxic",
+    "prob": 0.9602801366290281,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.9602801366290281
+      }
+    ]
+  },
+  {
+    "text": "хач",
+    "label": "Toxic",
+    "prob": 0.5110534556861034,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.5110534556861034
+      }
+    ]
+  },
+  {
+    "text": "пендос",
+    "label": "Toxic",
+    "prob": 0.5110534556861034,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.5110534556861034
+      }
+    ]
+  },
+  {
+    "text": "bitch",
+    "label": "Toxic",
+    "prob": 0.962335348745801,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.8802423198966811
+      },
+      {
+        "code": "IsAbusive",
+        "prob": 0.9345156353249122
+      },
+      {
+        "code": "IsObscene",
+        "prob": 0.962335348745801
+      }
+    ]
+  },
+  {
+    "text": "nigger",
+    "label": "Toxic",
+    "prob": 0.5418620413661741,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.5162247663193447
+      },
+      {
+        "code": "IsNationalist",
+        "prob": 0.5418620413661741
+      }
+    ]
+  },
+  {
+    "text": "bitch",
+    "label": "Toxic",
+    "prob": 0.9874671565370751,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.8674544490588517
+      },
+      {
+        "code": "IsAbusive",
+        "prob": 0.9661103113517285
+      },
+      {
+        "code": "IsObscene",
+        "prob": 0.9874671565370751
+      }
+    ]
+  },
+  {
+    "text": "nigger",
+    "label": "Toxic",
+    "prob": 0.5418620413661741,
+    "types": [
+      {
+        "code": "IsToxic",
+        "prob": 0.5162247663193447
+      },
+      {
+        "code": "IsNationalist",
+        "prob": 0.5418620413661741
+      }
+    ]
   }
 ]
